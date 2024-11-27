@@ -37,12 +37,12 @@ const Sidebar = () => {
   const siteInfoRoutes = [
     {
       path: "/about",
-      name: "About",
+      name: "About Cast Aura",
       icon: "ri-information-fill",
     },
     {
       path: "/contact",
-      name: "Contact",
+      name: "Contact Us",
       icon: "ri-phone-fill",
     },
   ];
